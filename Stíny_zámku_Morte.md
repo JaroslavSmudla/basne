@@ -3329,6 +3329,40 @@ pomohl by svojí drahé jakkoliv.
     5. Jedou se podívat na venkov, Viktorka se zblázní
 -->
 
+Po týdnu nepříjemného zjištění      
+se Luce rozhodl ženu potěšit            
+Vyjížďkou do nedaleké vesnice.              
+Zážitkem chtěl smutek trošku vyřešit        
+téže nachystal drobné překvapení.       
+
+"Barbe napadlo mě, co si vyrazit?       
+Jenom my dva spolu na prostý venkov.            
+Podívali bychom se mimo zámek,          
+již léta znáš pouze zámecký domov,          
+tam můžeme čas pro jednou zastavit.         
+
+Užijeme si čerstvý vzduch přírodní,         
+popovídáme si s místními lidmi          
+a poté směr domů na zámek.          
+Budeme dvěma poutními hvězdami,     
+které ozáří i temné podsvětí."      
+
+"Jo, to by bylo asi možná dobré,"       
+řekla Barbe s jistým poklesem v hlasu.          
+Luce dělal jako by neslyšel mumlání         
+jenž bylo po zbytek delšího času         
+doprovázené jak citrusy hořké.      
+
+Dalšího dne opustili komnaty        
+vězení sužujíc zdravé chápaní           
+reality s prožitou minulostí.               
+Na místě tvářila se splníc přání            
+štastně nechtíc mu přidělat obavy.      
+
+
+
+
+
 <div style="page-break-after: always;"></div> 
 
 ## <a id="sekce6"></a> Kapitola 6: Kozák
