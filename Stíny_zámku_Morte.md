@@ -3356,8 +3356,41 @@ doprovázené jak citrusy hořké.
 Dalšího dne opustili komnaty        
 vězení sužujíc zdravé chápaní           
 reality s prožitou minulostí.               
-Na místě tvářila se splníc přání            
+Na místě tvářila se splníc přání,               
 štastně nechtíc mu přidělat obavy.      
+
+<!--  -->
+Ve vesnici panovala nálada      
+lidské rovnosti taktéž nenávisti.       
+Pohrdavci smekli slaměný klobouk            
+i odebrali se do domu závisti.          
+Půdní nerovnost byla pro ně zrada.      
+
+Ostatní byli nadšeni z návštěvy         
+hraběnky jenž jim skrz válku pomohla.       
+"Přeji dobré jitro paní hraběnko."          
+Barbe euforicky štěstím vydechla,           
+spadl z ní bojácný kámen úlevy.      
+
+<div style="page-break-after: always;"></div> 
+
+Zapoměla na bolest svoji ztráty.        
+Společně se vydali do kostela       
+pomodliti se k Bohu na nebesích.            
+Menší dítka v ní zřeli anděla,          
+který nosí překrásné bílé šaty.     
+
+Poté přešli na připravenou náves.       
+Všude byly stoly s jídlem a pitím,              
+vše co ostatní stihly připraviti.       
+Nakonec stoly dozdobily kvítím              
+i k ní dali cenný měděný džbánek.       
+
+
+
+
+
+
 
 
 
