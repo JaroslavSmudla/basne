@@ -108,7 +108,7 @@ Věru špatní rodiče to nebyli.
 
 O pár let později, v letech dvanáctých     
 Roby modrou vestou jako okouzlen    
-vojákem v dospělosti chtěl by se stát   
+vojákem v dospělosti chtěl by se stát,   
 že otec byl pro, byl přímo uchvácen.    
 Nastoupit může v letech sedumnáctých.    
 
@@ -124,22 +124,22 @@ pávi vznešení žijíce se strýcem
 všechna pera dívajíc se jak živá,    
 kdež hojnobarevnost pouze záminkou.  
 
-O dva roky Roby je zase starší  
+O dva roky Roby je zase starší,  
 květy růží a narcisy odkvetly.  
-Na jaře znova poupata narostou  
+Na jaře znova poupata narostou,  
 své krásy života zas by procitly,   
 možná básník krásu napíše do básní.     
 
 Horlivý mládenec má lásku k šermu   
 cvičiště proto potajmu navštivil.          
-Pozoruje mistry, viděl v přenosu,    
+Pozoruje mistry, viděl v přenosu    
 všechna umění boje co vykouzlil.    
-Hlídat u kordu svého musí něhu.   
+Hlídat u svého kordu musí něhu.   
 
 <div style="page-break-after: always;"></div>
 
-Šlechtic nepřetržitě trénoval sám       
-panák jak nepřítel, klacek jako meč.        
+Šlechtic nepřetržitě trénoval sám.       
+Panák jak nepřítel, klacek jako meč.        
 Náhle praštil se, nejde to tak snadno.        
 Do ruky dostal nesmírnou velkou křeč,   
 naštěstí do svatby zahojí se šrám.  
@@ -165,10 +165,10 @@ budu se snažit, abych se zalíbil.
 V bitvách odhodlaný na bílém koni   
 nepřáteli udeřit poslední šleh      
 šavlí ocelovou do slabin druhých.       
-Ta oněm parazitům vyrazí dech   
+Ta oněm parazitům vyrazí dech,   
 mocný jako Hanibal s jeho slony.    
 
-Nikdo mě neporazí jsem muž silný    
+Nikdo mě neporazí jsem muž silný,    
 sám Napoleon je můj druhý Pán Bůh.  
 Chystá se na další velké tažení,    
 na polech bitevních vidím velký ruch        
@@ -177,17 +177,17 @@ třeba v budoucnu budu maršál polní.
 Vrátím se jak hrdina velké války    
 uznáván muži, milován ženami.   
 Toť dostanu odměnu od své vlasti    
-velký svazek s válečnými cenami     
+velký svazek s válečnými cenami,     
 co už nikdy v životě nevrátím zpět.     
 
 Francií bude se rozléhat jméno  
 jméno rodu našeho, nechť zní Morte!     
 Pro služebné nebudu již mladý pán,  
-od té chvíle budou mi říkat lorde   
-pro mé potomky stvořím dobré lůno".     
+od té chvíle budou mi říkat lorde.   
+Pro mé potomky stvořím dobré lůno".     
 
 Starý muž jen šedé obočí svraští.   
-"Dohoda je svatá věc, to přece vím  
+"Dohoda je svatá věc, to přece vím,  
 nic s tebou již asi už nenadělám.   
 Avšak bát se o tebe snad ještě smím."   
 Teď myšlenka otce do očí praští.    
@@ -233,16 +233,16 @@ neměl kým býti moc kdysi milován
 kvítky růží lásky, dnes nechť jej změní.    
 
 Vysmejčit se musí všechen spadlý prach,     
-prachovkou z peří, pozamést každý kout.     
-A hle, skříň ještě po babi zde stojí.       
-Služky na chvíli se mají nadechnout,    
+prachovkou z peří pozamést každý kout.     
+A hle, skříň ještě po bábě zde stojí.       
+Služky na chvíli se musí nadechnout,    
 spolky by sajrajt ze kterého jde strach.    
 
 Služebnice Viktorka cosi vidí           
 "Co se to tady skrývá vzadu dole?"      
 To dlouhý předmět připomínaje hůl.      
 "Nějaký Spazierstock, či spíše hole?        
-Jen Bůh ví, kolik nosilo ho lidí."      
+Jen Bůh ví, kolik nosilo ho lidí.      
 
 Vezmu ho mému otci starému     
 nemůže chodit, ten jej využije."        
@@ -309,7 +309,7 @@ To asi pouze čas ještě ukáže.
 Jen vůle osudu mi směr prozradí     
 Bože buď prosím milostivý, Amen."
 
-<i>Jak asi vypadá? Jaké má vlasy?  
+<i>'Jak asi vypadá? Jaké má vlasy?  
 Půlnoční černovláska, zlatavá blond,    
 či rudé vlasy z plamenů ohně?   
 Alespoň neuvidím dívek moc front.   
@@ -335,8 +335,8 @@ ve kterém navždy sám ve dvou uváznu."
 
 <!-- Večer před příjezdem (3) -->
 Poslední večer před příjezdem nastal,   
-starý Morte modlí se k Pánu Bohu:   
-"prosím, Roby a Barbe de Grand-Jessic   
+starý Morte modlí se k Pánu Bohu.   
+"Prosím, Roby a Barbe de Grand-Jessic   
 manželským párem stát se jim pomohu.    
 Amour lásky nechť by nebesa vystlal.    
 
@@ -369,17 +369,17 @@ Nebudu rozumovat už půjdu spát."
 Osudného dne slunce zrána vyšlo,    
 okna zasáhla paprsků velká zář.     
 Na oltářku soše svaté Marie,          
-znenadání zjevila se svatozář       
+znenadání zjevila se svatozář,       
 jako nějaké poselství dnes vzešlo.      
 
 Hrdličin zval ku tanci líbezný hlas,        
-tanci kde tvář tančících je neznámá,            
+tanci kde tvář tančících je neznámá            
 i tak se musí hrát a tančit dále.       
 Hra dvou lidí, jenž přímo je spoutává       
 jediné omezení je krátký čas.       
 
-Čas, ten který svou trať rychle uběhne,     
-pouze tehdy když se dva dobře baví.     
+Čas, ten který svou trať rychle uběhne          
+pouze tehdy, když se dva dobře baví.     
 Pokud se nebaví, čas jde pomalu.        
 Jestliže muž je dostatečně dravý,       
 žena mu zajisté ráda podlehne.          
@@ -412,7 +412,7 @@ Nakonci bude dort, v němž je čokoláda."
 <div style="page-break-after: always;"></div>
 
 <!-- Bál [Valz] (9) -->
-<i>Nesním snad, hle anděl předemnou stojí,        
+<i>'Nesním snad, hle anděl předemnou stojí,        
 oděven v bílém s nadpozemským hláskem.      
 Jeho slovům snad ani nerozumím,     
 krásná jak pany Marie obrázek.      
@@ -421,7 +421,7 @@ Obrázek, jenž mě svou krásou opojí.
 <!-- popis -->
 Rudé vlasy jenž nejspíš vzešly z pekla,     
 sám ďáblův plamen jak látku je utkal.       
-Krásná jak obraz Zrození Venuše         
+Krásná jak obraz Zrození Venuše,         
 avšak s duší andělskou, co si přál,     
 před ní duše by na kolena klekla.   
 
@@ -437,8 +437,8 @@ Vlasy jsou smyčcemi, vůně bicími,
 duše s postavou tvoří symfonii,     
 jak mistr hrajíce hudbu svou rukou.     
 
-Všichni již tančí, sám k tanci ji vyzvu.</i>                    
-Zdravím slečno, smím o tanec požádat?"     
+Všichni již tančí, sám k tanci ji vyzvu.'</i>                    
+"Zdravím slečno, smím o tanec požádat?"     
 "Když vlk labuti neublíží, pak smí."        
 O její krásné jméno chtěl zažádat,      
 avšak zalek se nechť má v oku jiskru.       
@@ -478,12 +478,12 @@ U nás květné zahrady nejsou v panství,
 pouze dlouhá pole osetá stromy.     
 Matka si vyprosila stinné parky,     
 které byly a jsou jen a jen pro ni.     
-Pro mě jsou stromové zahrady mnišství."     
+Pro mě jsou stromové zahrady mnišství.     
 
 Stromy mnichami, jeptiškami keře        
 klášter vedle kláštera mě však vězní.       
-V mém dětství si našel hloupu macechu       
-lásku potkali a nyní jsou blázni,       
+V mém dětství si našel hloupou macechu.              
+Lásku potkali a nyní jsou blázni,       
 tak otcova moc padla k její sféře.      
 
 Tedy zítra brzně ráno v zahradě,            
@@ -504,14 +504,14 @@ neledajaké květiny popravdě."
 
 Kosi i vrabci zrána krásně pějí        
 v zahradě, kde růžové růže rostou.      
-Roste zde i neobyčejná kytka,       
+Roste zde i speciální květina,       
 na první pohled není vůbec prostou      
 zvláště když se roční období mění.      
 
 "Květy má blankytně modře zbarvené       
 po dobu chladu podzimu a zimy.      
-Na jaře červené kvítky otvírá   
-v létě zase bílé, sprosťujíc viny.      
+Na jaře červené kvítky otvírá,   
+v létě zase bílé sprosťujíc viny.      
 Viny hříšníků, jenž byly spáchané.      
 
 Na podzim brány znova zavírá,       
@@ -555,14 +555,14 @@ nechť ukazuje jak je dosti vzácná.'
 I toť je její celý jasný původ.     
 Mezitím náš rod zbohat díky dědu,       
 tutíž jeho synovi a Africe.     
-Zde začali dovážet spousty medu     
+Zde začali dovážet spousty medu,     
 což dalo k získání majetku návod.       
 
 Naše rodina se stala největším,     
 nejznámějším vývozcem tekutiny,    
 tekutiny sladké příjemné, medu."     
-"Zda-li po vás nezůstaly mýtiny,        
-pouze z vašich slov pravdu lehce věštím."        
+"Zda-li po vás nezůstaly mýtiny.        
+Pouze z vašich slov pravdu lehce věštím."        
 
 "Byznys je byznys, tomu nechápete,      
 peníze jsou pro toho, kdo si je vezme."        
@@ -574,7 +574,7 @@ pletení a dětem pouze chápeme."
 ale holt dnes celý svět tak funguje.       
 Možná jednou ženy budou moct velet,     
 i stane se vládkyní, jenž skóruje       
-jak Johanka z Arku brity porazit.            
+jak Johanka z Arku Brity porazit.            
 
 <!-- +1 -->
 Navrhuji přejít na jiné téma,       
@@ -595,7 +595,7 @@ Hráli bychom na honěnou na dvorku,
 též soutěžili kdo vyhraje závod.        
 Po mně, nejraději mají pelíšek.       
 
-Poté ráda chodím krmit rybičky.     
+Taktéž ráda chodím krmit rybičky.     
 Máme pěkný okrasný malý rybník,     
 v něm červení, modří, zlatí karasi.     
 Dokola je oset zelený chodník,      
@@ -644,10 +644,10 @@ již končí jeho dlouhý sen,
 kde krása myšlenek zvolna umírá.
 
 Jedna leč přetrvává hodně dlouho           
-a to: "<i>Jak ji moji lásku vyjádřit?          
+a to: <i>'Jak ji moji lásku vyjádřit?          
 Zkusím to provést zas někde v zahradě,          
 náš vztah lásky takhle navždy zapouzdřit         
-i vytvořit na život a smrt pouto.</i>"   
+i vytvořit na život a smrt pouto.'</i>   
 
 Oba se ráno našli u snídaně,        
 dojedli zavařeninu i chleba,        
@@ -658,8 +658,8 @@ smím Vás pozvat do zahrad v tom případě?"
 "Zajisté, o čem dnes budem hovořit?     
 O zvířátkách, rybičkách či přírodě?"        
 "Hádejte, avšak je to překvapení.       
-Půjdem tam, kde se dá oddat svobodě,        
-svírá mě z toho trošku srdeční stres."      
+Půjdem tam, kde se dá oddat svobodě.               
+Svírá mě z toho trošku srdeční stres."      
 
 Posadili se něžně na lavičku        
 vytvořenou z jasanového dřeva.      
@@ -682,19 +682,19 @@ pouze můj stud byl doteď náš nepřítel."
 <div style="page-break-after: always;"></div>
 
 "Ach Roby, též tě od srdce miluji,      
-trochu jsem byla nervózní z domluvy        
+trochu jsem byla nervózní z domluvy,        
 kterou rodiče společně sjednali.        
 Dohoda jak o prodeji budovy,        
 mezi sebou jejich slib si darují.       
 
-Ten kde vydělají, přitom prodají        
+Ten kde vydělají, přitom prodají,        
 jenom Štěstěna přitom při nás stála     
 spojila dva lidi, co se milují.     
 Já lásku prvně jsem si silně přála,     
 takovou co špatní lidé neznají.     
 
 Já si tě všimla na maškarním bále,      
-když jsi mě vyzval k tanci, pleslo srdce    
+když jsi mě vyzval k tanci pleslo srdce    
 a já si užívala každičký krok.      
 Moje kroky vedl mého srdce vládce,      
 tance odehrávajíc se v tanečním sále."  
@@ -710,11 +710,11 @@ Náhle přichází Robyho komorník
 "Pane nechci Vás rušit v této chvíli,       
 ovšem máte se dostavit za otcem."       
 "Dobrá tedy děkuji, už půjdu čili       
-zase si povzdechne: <i>Ach ten nevděčník</i>."      
+zase si povzdechl: <i>Ach ten nevděčník</i>."      
 
 Pan otec však měl na mysli věc jinou        
 "Obchod s medem měl by jsi brzo převzít     
-ať mohu jít na tichý odpočinek.     
+ať mohu jít na řádný odpočinek.     
 Majetku snažíme se dlouho nabýt,        
 zaplatili bychom kdejakou cennou.       
 
@@ -784,7 +784,7 @@ V zámku volnost výběru narazila.
 Na vesnici koná se tancovačka,      
 všichni se na ni poctivě chystají       
 V místním kulturním domě U Tří bratří       
-u výzdoby nadšeně si pískají        
+u výzdoby nadšeně si pískají,        
 vždy po půlnoci vznikne hloupá rvačka.      
 
 Všichni chlapi nalití se poblijí        
@@ -795,8 +795,8 @@ všechny skliňky o hlavy si rozbijí.
 
 Zítřek snad bude jiný, vše v pořádku,        
 nikdo se snad do krve nepopere,         
-nic se snad nerozbije a nezničí,        
-každý snad sám zaleze do postele,       
+nic se snad nerozbije a nezničí.        
+Každý snad sám zaleze do postele,       
 parket nebude plný nepořádku.       
 
 "Tatínku zítra už konaje se bál,        
@@ -827,8 +827,8 @@ leč střevíce obyčejné jak boty.
 
 Bohužel na ně nemáme peníze,        
 ale i tak jsi nádherná princezna.       
-Slyšel jsem že mladý kníže se žení      
-jeho žena krásná až-li líbezná.     
+Slyšel jsem že mladý kníže se žení.      
+Jeho žena krásná až-li líbezná.     
 V budoucnosti vidím úžasné vize."              
 
 Ten večer po příchodu do místnosti,         
@@ -862,7 +862,7 @@ Jsi má jasná hvězda i duše spásná.
 "Kam to ty prasáku rukama šaháš!"       
 
 "Štěstíčko macaté já si podržím     
-v rukou nachází se přímo božská slast   
+v rukou nachází se přímo božská slast,   
 která nejen náladu rozzářila."      
 "Fuj, Tonie je z tebe cítit hnusný chlast,      
 mohl bys být vedle i tak tě vycítím."       
@@ -877,13 +877,13 @@ Vzápětí Tonie Niemand letěl k zemi,
 Jeanova pěsť se krvavě otiskla,     
 nejdříve k nosu poté k obličeji.        
 Poslední rána na hubě vynikla       
-a tak to začalo vřít mezi lidmi     
+a tak to začalo vřít mezi lidmi.     
 
 Do chvíle se rázem pral kde kdo, s kde kým.     
 ženušky nebyly vůbec výjimkou,      
 jedna druhé vlasy urputně rvala.        
-Ta rvačka ale stála před otázkou:       
-zapojí se otec či skončí před ním.      
+Ta rvačka ale stála před otázkou.       
+Zapojí se otec či skončí před ním.      
 
 "Pojď Viki půjdeme už domů radši,       
 nechci aby se ti zde něco stalo,        
@@ -908,8 +908,8 @@ Viki nový datum bálu shledala.
 
 Znovu ona vystrojena se chystaje        
 na květiný bál, jenž brzy se koná.      
-Hudba plným nádechem již vyhrává        
-Margarite čerstvou jarní píseň zpívá        
+Hudba plným nádechem již vyhrává,               
+Margarite čerstvou jarní píseň zpívá,              
 oslavujíc první začátek Máje.       
 
 Stejně tak bylo na slavnosti - bále.        
@@ -3386,14 +3386,75 @@ vše co ostatní stihly připraviti.
 Nakonec stoly dozdobily kvítím              
 i k ní dali cenný měděný džbánek.       
 
+Pod stromem zřeli ženu krčící se            
+v roztrhaných nejspíš v šatech svatebních.      
+Zvědavi otázali se starosty.                
+"Vy určitě víte všech o příbězích.          
+Tam sedí dívka něčím trápící se."        
 
+<!--  -->
 
+"Ach ano, ta dívka, to je Viktorka.     
+Manžela ji odvedli na bojiště,          
+tam zhynul a ona se utrápila.           
+Z její mysli se stalo popeliště,            
+avšak nyní je něškodná divoška."            
 
+"A proč má na sobě svatební šaty?"          
+"Jediná vzpomínka, kdy byla šťastná.            
+Když se o zeťovo smrti doslechl         
+její otec, zpráva ho trochu zmohla.         
+Chtěl ji dáti dáti našetřené dukáty.            
 
+Avšak než takto stihl učiniti,          
+jediné jeho dítě se zbláznilo.          
+Moc pravdu neunesl a zabil se.          
+Slunce se toho večera zalilo            
+šedými mraky se šlo zahaliti.           
 
+Ve stodole přivázal pevné lano          
+za dřevěné trámy plačivé stavby.            
+Ráno jej našel jeden z čeledínů.            
+Již nevěřil v budoucnost, kterou přál si.       
+Tím dohrál tóniku na své piano."        
 
+Barbe smutně chápajícím pohledem        
+pohlédla do očí svého manžela.              
+Jako kdyby slyšela vlastní příběh,         
+akorát takový život nechtěla.               
+Nechtěla se stát bezcitným balvanem.        
 
+<!--  -->
 
+Pohledem již nebyla ustrašená,          
+Robertovu smrt brala jako součást           
+života jenž bude ráda žít pro něj.          
+V duši scvakla poslední útrapy past,            
+která byla na Barbe nastražená.         
+
+Zítřky ať jsou ve stylu pochopení       
+smyslu a útrap lidského života.     
+Láska je údělem věčného žití        
+přestože ji doprovází slepota       
+může zahřívat vnitřní potěšení.     
+
+Dejžto se jedná o první motýlky         
+nebo přilétají po druhé, po třetí,      
+každá žena je vnimá nejkrásněji.            
+Bříško motýlky do sebe zachytí          
+i nechá všechny bzučet jako včelky.     
+
+Avšak ti první bzučí nejsilněji,
+tak záhadně jak žádní jiní po nich.
+Nakladou kukly ostychu, radosti.
+Vyvolají v dívence plačtivý smích.
+Ať je ten muž navěky nejvěrnější.
+
+Domů odjeli oba spokojeně.              
+Luce ze štěstí, jenž Barbe opět má          
+ona za svůj znovu nalezený klid.            
+Ten v ní usedl a dodnes si dřímá,                   
+hezké sny připravujíc uvolněné.         
 
 
 <div style="page-break-after: always;"></div> 
@@ -3401,7 +3462,38 @@ i k ní dali cenný měděný džbánek.
 ## <a id="sekce6"></a> Kapitola 6: Kozák
 <!-- 
     kapitola je o útěku Roberta s polských vojákem, kterýmu zachrání život - Monte Christo
- -->
+-->
+
+Kapky deště hudebně dopadaly,           
+dunily jako virvál před popravou,           
+který odsouzeného doprovází.            
+Stojí tady s oprávněnou obavou,         
+okovy trestu mu nohy pálily.        
+
+Zahalený muž pozoroval dění,            
+nikoliv jak součást soudní tribuny,     
+leč jako spoluvězeň za mřížemi.         
+Zpod kápě ční část trnové koruny,           
+ukována ze železa a mědi.           
+
+Je správným králem všech nevinných vězňů,       
+prosí Boha za jejich propuštění,        
+boužel končí v Ježíšovo králoství.          
+Omilostněni ze svého zhřešení,          
+stále žijíc v nepochopeném stesku.          
+
+Chtějí se vrátit za milovanými,                 
+k matkám, vlastním ženám, dokonce dcerkám.      
+Avšak smrt nelze nikterak obelhat,      
+útěk odhalí i odolá slzám,          
+nutí je žít se srdci zlomenými.         
+
+Trnový král sňal kápi zahalení,     
+nyní vidím jasně, kdo se schovává.      
+Robert, jak ale mohl sakra přežít?      
+Poslouchejme zrovna něco vyčítá         
+lidem zodpovědným za zatracení.         
+
 
 <div style="page-break-after: always;"></div> 
 
