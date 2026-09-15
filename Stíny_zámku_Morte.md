@@ -44,7 +44,7 @@ I kdyby píseň ptáků bouřkou utichla, nechť Meluzína zpívá o lásce nav�
 > [Umrlec](#k5-4)        
 > [Bláznivá Viktorka](#k5-5)   
 ### [Kapitola 6: Kozák](#sekce6)
-> [V zajetí](#k6-1)     
+> [Vězňů král](#k6-1)     
 > [Útěk není možný](#k6-2)    
 > [Tadeusz Stefan Sapieha](#k6-3)    
 > [Zámek Perstein](#k6-4)      
@@ -1046,8 +1046,8 @@ pokřižovala se i pak poklekla.
 Pohlédla na kříž ze dřeva starého       
 i sama pustila se do modlení,       
 tak jak se na řádnou křesťanku sluší        
-"<i>Dej jim, ó Pane, své věčné spasení.     
-Ve jménu Otce i Ducha svatého."</i>      
+'<i>Dej jim, ó Pane, své věčné spasení.     
+Ve jménu Otce i Ducha svatého.'</i>      
 
 V tu chvíli jenom spěchavý vánek vál    
 běžíce z jedné dědiny do druhé.     
@@ -1067,7 +1067,7 @@ Cihla po cihle budova stojí již
 s rudým vybavením jak má zámeček        
 na louce chtěj pást ovce jen vznešený.      
 
-Údolí celé porostlé smaragdy    
+Údolí celé porostlé smaragdy,    
 les tvoří porost jehličnatých stromků.      
 Proudy vody stvořeny Boží rukou,        
 pstruhovi třpytí se světla úlomků,      
@@ -1081,8 +1081,8 @@ můj prohřešek mi u Pána Boha zvolní.
 
 <div style="page-break-after: always;"></div>
 
-Teď jsem ale tady konečně s tebou       
-mohu Ti sdělit co mám na srdíčku:       
+Teď jsem ale tady konečně s tebou,       
+mohu Ti sdělit, co mám na srdíčku.             
 Hlásek jemný jako červený samet,        
 vlasy tvé třpytící se na sluníčku       
 jasným štěstím pro mé oči jsou pastvou."        
@@ -1148,17 +1148,17 @@ Nasbírali pampelišky s třezalkou
 fialkami spletli věnec vábivý       
 stanouce se jeho bílou nevěstou.        
 
-Něvěsta jenž na hlavě nese věnec        
-léčivou kopretinou propletený       
+Něvěsta jenž na hlavě nese věnec,        
+léčivou kopretinou propletený,       
 značíce skrytou nevinost uvnitř ní.     
-Muž je úžasem přímo okouzlený       
+Muž je úžasem přímo okouzlený,       
 vidíce lesní víly něžný tanec.      
 
 Tanec brzo končí, u vesnice jsou    
 "Zítra se příjdu v jedenáct ukázat      
 přinesu dárek i čerstvých květin kus        
 svou mužnost tvému tátovi prokázat      
-ukončíce svatbou mojí taktéž tvou.      
+ukončíce svatbou mojí taktéž tvou."      
 
 <div style="page-break-after: always;"></div>
 
@@ -3444,11 +3444,11 @@ každá žena je vnimá nejkrásněji.
 Bříško motýlky do sebe zachytí          
 i nechá všechny bzučet jako včelky.     
 
-Avšak ti první bzučí nejsilněji,
-tak záhadně jak žádní jiní po nich.
-Nakladou kukly ostychu, radosti.
-Vyvolají v dívence plačtivý smích.
-Ať je ten muž navěky nejvěrnější.
+Avšak ti první bzučí nejsilněji,            
+tak záhadně jak žádní jiní po nich.     
+Nakladou kukly ostychu, radosti.        
+Vyvolají v dívence plačtivý smích.      
+Ať je ten muž navěky nejvěrnější.       
 
 Domů odjeli oba spokojeně.              
 Luce ze štěstí, jenž Barbe opět má          
@@ -3460,9 +3460,11 @@ hezké sny připravujíc uvolněné.
 <div style="page-break-after: always;"></div> 
 
 ## <a id="sekce6"></a> Kapitola 6: Kozák
+
+### <a id="k6-1"></a> **Vězňů král**
 <!-- 
-    kapitola je o útěku Roberta s polských vojákem, kterýmu zachrání život - Monte Christo
--->
+    Kapitola pojednává o útěků francozských a polských vojáků
+ -->
 
 Kapky deště hudebně dopadaly,           
 dunily jako virvál před popravou,           
@@ -3493,6 +3495,49 @@ nyní vidím jasně, kdo se schovává.
 Robert, jak ale mohl sakra přežít?      
 Poslouchejme zrovna něco vyčítá         
 lidem zodpovědným za zatracení.         
+
+<!--  -->
+
+"Vyčkejte moji mladí učedníci,      
+než zas započnete argumentovat,             
+jak moc nespravedlivý jsou Rusové.          
+Zabil, museli na to reagovat.           
+Vy!, vy jste novodobý mučedníci."           
+
+"A co bičování, hrabě Roberte?"             
+"Říkal jsem, neoslovujte mne takto.         
+Pro všechny jsem pouze a jenom Robert.          
+K bičování neměli žádné právo,          
+a proto utečeme pryč společně."     
+
+<div style="page-break-after: always;"></div> 
+
+"A kdy utečeme? Zítra, za měsíc?        
+Budeme mít dosti sil dohromady?         
+I co když do jednoho zahyneme?"         
+"Tvé otázky proudí ze strohé nálady.         
+Modli se i Bůh ti jistě vyjde vstříc."       
+
+Debata skončila a král se sluhou        
+se odebrali do rohu věznice.            
+Sluha začal velmi tíše promlouvat.      
+"Hej, zajali nás u stejné vesnice           
+před dobou více než-li hodně dlouhou.       
+
+Spolu jsme vymýšleli první plány,       
+od kterých jsme naštěstí upustili.          
+Dnes bychom taktéž visely na laně.      
+Strážní ví, čeho jsme se dopustili,     
+asi neotevřou táborů brány.         
+
+<!--  -->
+
+
+
+
+
+
+
 
 
 <div style="page-break-after: always;"></div> 
