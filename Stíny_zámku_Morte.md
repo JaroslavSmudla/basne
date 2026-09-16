@@ -3528,9 +3528,26 @@ Spolu jsme vymýšleli první plány,
 od kterých jsme naštěstí upustili.          
 Dnes bychom taktéž visely na laně.      
 Strážní ví, čeho jsme se dopustili,     
-asi neotevřou táborů brány.         
+asi neotevřou táborů brány."                 
 
 <!--  -->
+"Ty si zůstaň, já se musím vrátiti.     
+Barbe na mě zajisté čeká, vím to."          
+"Nebuď směšný, myslí si že jsi mrtev.           
+Myslela na tebe ze začátku často,           
+časem bude museti obrátiti."            
+
+"Nezajímá mě si o ní myslíš,        
+já ji budu vždy milovat jaká je.            
+Ty jsi svojí Zuzkou opovrhoval              
+tvá bezcitná hloupost maškarní hraje,           
+nenávistným strachem všecičko ztratíš."     
+
+"Možná, alespoň nebudu překvapen.
+My jsme měli vyhrocenější odchod,
+tebe objímala nezištnou láskou.
+U mě čekala na konečný odchod,
+sám jsem byl z rýpavých keců unaven."
 
 
 
