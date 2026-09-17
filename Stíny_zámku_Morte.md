@@ -45,10 +45,10 @@ I kdyby píseň ptáků bouřkou utichla, nechť Meluzína zpívá o lásce nav�
 > [Bláznivá Viktorka](#k5-5)   
 ### [Kapitola 6: Kozák](#sekce6)
 > [Vězňů král](#k6-1)     
-> [Útěk není možný](#k6-2)    
-> [Tadeusz Stefan Sapieha](#k6-3)    
-> [Zámek Perstein](#k6-4)      
-> [Na hranici svobody](#k6-5)  
+> [Útok](#k6-2)    
+> [Tichý útěk](#k6-3)    
+> [Králové Evropy](#k6-4)      
+> [Před domovem](#k6-5)  
 ### [Kapitola 7: Sladký domove](#sekce7)
 > [Ach, sladký domove](#k7-1)    
 > [Château de l'Espérance Morte](#k7-2)    
@@ -3464,6 +3464,13 @@ hezké sny připravujíc uvolněné.
 ### <a id="k6-1"></a> **Vězňů král**
 <!-- 
     Kapitola pojednává o útěků francozských a polských vojáků
+
+
+    1. představení
+    2. útok -> nezdaření
+    3. finální tichý útěk s dlouhodobým kamarádem
+    4. utíkání skrz Evropu
+    5. před domovem
  -->
 
 Kapky deště hudebně dopadaly,           
@@ -3543,19 +3550,72 @@ Ty jsi svojí Zuzkou opovrhoval
 tvá bezcitná hloupost maškarní hraje,           
 nenávistným strachem všecičko ztratíš."     
 
-"Možná, alespoň nebudu překvapen.
-My jsme měli vyhrocenější odchod,
-tebe objímala nezištnou láskou.
-U mě čekala na konečný odchod,
-sám jsem byl z rýpavých keců unaven."
+"Možná, alespoň nebudu překvapen.       
+My jsme měli vyhrocenější odchod,       
+tebe objímala nezištnou láskou.         
+U mě čekala na konečný odchod,              
+sám jsem byl z rýpavých keců unaven."           
+
+"Jak chceš, já k lidem zítra rád promluvím.         
+Povzbuzení oni potřebují            
+od mecenáše, svého krále.               
+Aby věděli zač se mnou bojují,          
+k útoku za svobodu je přemluvím.            
+
+Očekávej zítra kolem poledne            
+první vlnu národního odporu.            
+Tak si zalez tady hezky do kouta,           
+klidně můžeš býti s námi v rozporu,     
+ale síla Francouzů se pozvedne."            
+
+<!--  -->
+
+"Kout není zbabělství, leč útočiště.        
+Nehodlám jen tak promarnit svůj život,      
+na tvém nebezpečně hloupém plánu.           
+Já ho beru jak darovaný klenot,         
+rozdělám radši moudrosti ohniště.           
+
+Až vás přitáhnou celé zmordované,       
+zajisté se bude i Tobě hoditi,          
+natrhám zdravé byliny z prostranství,           
+kde nás strážní chtějí zříka pustiti,           
+jsme jak ovce majitelem týrané.         
+
+Přesto raději týrané než mrtvé.         
+Věřím v Napoleonův návrat k moci,           
+vrátí se pro nás, vrátí se silnější.            
+Musíme však přečkat pár dní a nocí,         
+než útržky vojska budou zpět silné.     
+
+Právě proto musíme vydržeti,            
+zůstat zdraví a schopni odporovat.      
+Údělem je vyčkávat opatrně,         
+nepřátele stále analyzovat,             
+ať k dalším úderům jsme připraveni.     
+
+I tak ti přeji mnoho štěstí, úspěchu.       
+Budu se modliti za tvé přežití,             
+nechť vás Bůh s duchem svatým ochraňuje.            
+Nepřeji nikomu krveprolití,             
+strašné patronovy cesty nahoru."        
+
+<div style="page-break-after: always;"></div> 
 
 
+### <a id="k6-2"></a> **Útok**
 
+<div style="page-break-after: always;"></div> 
 
+### <a id="k6-3"></a> **Tichý útěk**
 
+<div style="page-break-after: always;"></div> 
 
+### <a id="k6-4"></a> **Králové Evropy**
 
+<div style="page-break-after: always;"></div> 
 
+### <a id="k6-5"></a> **Před domovem**
 
 <div style="page-break-after: always;"></div> 
 
@@ -4346,10 +4406,10 @@ během chvíle navždy život ukončil.
 Jako Ovídius trápím hlavu svou,
 včerejšky dnešky dny probdělé noci.
 Touha po Tobě vede mojí ruku.
-Já bojácný chopit se moci
+Já bojácný chopit se moci,
 doufám že verše mou prosbu donesou. 
 
-Jsi mojí Sněhurkou po které toužím
+Jsi mojí Sněhurkou po které toužím,
 krásou záříš jak nejjasnější hvězda.
 Plameny svítíš a oslňuješ zrak,
 jsi studnou úsměvů jenž je bezedná.
@@ -4373,7 +4433,7 @@ moje rty by tvou duši rozehřály.
 Zase procitneš jak krásný růže květ.
 Budeš květina bezpečím rozkvetlá.
 
-A tak stojím tady s otázkou prosbou,
+A tak stojím tady s otázkou, prosbou,
 Chci okrýti své plánované karty,
 jenž velmi dlouho ukrývám v rukávě.
 Dohrajme naše rozehrané šachy.

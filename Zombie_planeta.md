@@ -31,7 +31,7 @@ Nevím jak vás, leč mě to sere psát furt."
 
 "Kapitáne, musíte to pochopit       
 zapisujem to pro naší bezpečnost.       
-Model Aetheris nás kontroluje."     
+Model Aetheron nás kontroluje."     
 "Chápu inženýrko, tak zvyště rychlost       
 chci vzpůrný Hormos konečně objevit."       
 
