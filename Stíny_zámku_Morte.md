@@ -3260,17 +3260,17 @@ Působil jako jakýsi tichý vzlyk.
 
 <!-- Barbe vysvětli, Luce pochpopí, utěší -->
 
-"Promiň mi, musím myslet na Roberta,
-ani v noci ve snu nemám žádný klid.
-Prostě se mi vrací špatné vzpomínky
-i když jsem s ním chtěla nadosmrti žít,
-přichází jak vyobrazení čerta.
+"Promiň mi, musím myslet na Roberta,        
+ani v noci ve snu nemám žádný klid.     
+Prostě se mi vrací špatné vzpomínky         
+i když jsem s ním chtěla nadosmrti žít,     
+přichází jak vyobrazení čerta.          
 
-A ve mně dříme strach v aktu jít spáti.
-Dnes již Robyho sama očekávám,
-je to chvilka než ke mně v sen dorazí.
-Ač další kroky se snahou předvídám
-cítím bolest, že se mi chce vysmáti.
+A ve mně dříme strach v aktu jít spáti.     
+Dnes již Robyho sama očekávám,              
+je to chvilka než ke mně v sen dorazí.          
+Ač další kroky se snahou předvídám          
+cítím bolest, že se mi chce vysmáti.            
 
 Volá mě k sobě Luce, s láskou volá      
 s výhružkou naposledy i s otázkou.          
@@ -3602,8 +3602,111 @@ strašné patronovy cesty nahoru."
 
 <div style="page-break-after: always;"></div> 
 
-
 ### <a id="k6-2"></a> **Útok**
+
+Slunný to krásný den vězeňské vzpoury,      
+první nepokoje v dolech začali,             
+pokračovali přes pole do věznic.            
+Zajatci o svou svobodu válčili,         
+revoluční rudé krve telky proudy.       
+
+Bachaři do všech vzpouřenců stříleli,           
+bodali špičatými bajonety.              
+Přiběhly komandy ruských obránců            
+salvy pálili jak dnešní kulomety,           
+kulky jen tak tak Francouze míjely.     
+
+Spousta ale trefila a zabila.       
+Konečně dostali nějaké zbraně           
+Robyho učni od mrtvých vojáků.          
+Pálili i přes zakrvácené dlaně          
+exploze prachu jim ruce zlomila.            
+
+Nečekali zápalné mechanismy             
+plechovek naplněné střelným prachem.        
+Explozemi jim v uších zapískalo.        
+Bojují však dále s rostoucím strachem,      
+spatřujíc za barikádou hříšníky.    
+
+'<i>Volaj, nechť naše zbraně položíme,     
+jinak nás postřílí jako zajíce.         
+Nevzdáme se, ne dneska ani zítra            
+je nás více než-li větší tisíce,            
+před výhrou za nezávislost stojíme.
+
+<!--  -->
+
+Zahléd jsem cizí pohyb koutkem oka          
+nebyl to vítr, spíše něčí přesun,           
+nebyl jeden spíš menší ruská četa.          
+Valili se jak horní půdy sesun,             
+pro přežití nadechnu se zhluboka.'</i>                  
+
+Vše utichlo, vítr přestal foukati,          
+nikdo napětím nedýchal nemumlal.            
+Najednou hlasitá salva zazněla.             
+Robert kolem sebe vyjeveně koukal.          
+Jeden z chlapů začal nahlas plakati.            
+
+<div style="page-break-after: always;"></div> 
+
+Větší půlka z obránců byla mrtvá,       
+čtvrtina postřelena horkým brokem,          
+zbytek ležel na zemi vystrašený.            
+Robert si hnedka vzal jednoho bokem,            
+věděl že bitva je zcela prohraná.       
+
+Prosil Pána Boha za odpuštění,          
+nechtěl opět čeliti hrůzné pravdě.      
+Vrácení se do basy jej děsilo.              
+Cestou za mříže byl v špatné náladě,        
+uviděl svoje hloupé pochybení.      
+
+Starý přítel na něho v tichu čekal.     
+Nesmál se, byl zcela na pohled vážný,       
+nechal Roberta se prvně vyslovit.           
+Michael ocenil jak byl odvážný,         
+viděl jak ukrutnou bolestí sténal.      
+
+<!--  -->
+
+"Ach Roberte, věděl jsem že tak skončíš.        
+Je úžasné jak jsi mohl přežíti          
+takový obří těžký roj olova.            
+Musíš provždy s revolucí skončiti,          
+jinak o cenný život se připravíš.           
+
+Mě to tady téže přestává bavit,         
+narozdíl od tebe nechci bojovat.            
+Já uteču ve stylu Monte Christa.            
+Rozhodl jsem se pečlivě plánovat,           
+nad zákeřnými léčkami čas trávit.           
+
+Tobě nabízím v mojim voze,              
+utečeme spolu bez povšimnutí,               
+nikdo nezjistí že dva vězni chybí.              
+Nedojde k žádnému krveprolití,              
+jeden přítel si nás oba odveze.         
+
+V bezpečí nás vyhodí u polských hranic,         
+tam tě opustím a začnu žít nový sen.            
+Ty k sobě domů již zajisté trefíš.      
+Nesmíš býti však opětovně chycen,               
+stal by ses terčem spojeneckých střelnic.     
+
+Proto dělej všechno tak jak ti řeknu.       
+Upřímě, nerad bych skončil jako ty,         
+zmlácen, poražen díky své hlouposti.        
+Ta ti otevřela svět reality,                
+neboj, já se ji jen tak nezaleknu.          
+
+<!--  -->
+
+
+
+
+
+
 
 <div style="page-break-after: always;"></div> 
 
