@@ -3698,19 +3698,59 @@ Proto dělej všechno tak jak ti řeknu.
 Upřímě, nerad bych skončil jako ty,         
 zmlácen, poražen díky své hlouposti.        
 Ta ti otevřela svět reality,                
-neboj, já se ji jen tak nezaleknu.          
+neboj, já se ji jen tak nezaleknu."               
 
 <!--  -->
 
+Slibuji, poslechnu tě vždy naslovo.     
+Jestli máš plán, nebudu se hádati,          
+avšak prosím zasvěť mě do poznání."         
+"Nechci dlouze odpuštění žádati,            
+jen aby bylo co nejdřív hotovo."            
 
+Za měsíc byl Robert zcela plně zdráv,       
+připraven na úděl jejich útěku,         
+prosíce svaté k dosažení zdaru.         
+Jak Cesar překočíce dravou řeku,                
+pro vytvoření poselství dobrých zpráv.      
 
+Padlé přátele pořbil v svých myšlenkách.        
+Zapomněl na ně pro vyšší poselství          
+zářivého světla v urputnější tmě.           
+Pro někoho nepřátelské bláznoství,              
+které musí obstát v nelehkých zkouškách.        
 
+Pouze největší myslitelé doby       
+jsou hodni zamysleti se pořádně         
+nad situací trápíce Roberta.            
+Záměr může působiti záhadně,                
+přesto trvá pochopit dny, ne roky.      
 
-
+Vynalézavost s emočními styly   
+zrozuje úplně nové myšlenky,            
+o kterých doteď nikdo nepřemýšlel.          
+Kalkulace, výpočky jsou milenky,            
+živé nápady zase krásné víly.       
 
 <div style="page-break-after: always;"></div> 
 
 ### <a id="k6-3"></a> **Tichý útěk**
+
+Ráno toho dne útěku z gulagu            
+vše připravili dle jejich domluvy.          
+Vůz měl přijet okolo jedenácté.         
+S penězi se plánem trochu minuly,           
+jídla víc než podle odhadu.         
+
+Zbytky schovali do kapes a do bot,          
+například obroušený cínový nůž.         
+Do rukávu zandali cigarety,                 
+hned vedle tam, kde je tepní žíly puls,         
+přesto vzhledem připomínajíce skot.         
+
+
+
+
 
 <div style="page-break-after: always;"></div> 
 
