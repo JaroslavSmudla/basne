@@ -56,10 +56,10 @@ I kdyby píseň ptáků bouřkou utichla, nechť Meluzína zpívá o lásce nav�
 > [Pozvánka na bál](#k7-4)    
 > [Plán mého pána](#k7-5)    
 ### [Kapitola 8: 12. hodina odbila](#sekce8)
-> Cesta     
-> Myš chycena  
-> Dopis, jenž jsem našla
-> Pouze hodinu, ani více ani méně  
+> [Cesta](#k8-1)     
+> [Myš chycena](#k8-2)  
+> [Dopis, jenž jsem našla](#k8-3)
+> [Pouze hodinu, ani více ani méně](#k8-4)   
 > [Dopis zkázy](#k8-5)         
 ### [Kapitola 9: Zpěv a žal](#sekce9)
 > [Pozvánka](#k9-1)      
@@ -3748,13 +3748,165 @@ Do rukávu zandali cigarety,
 hned vedle tam, kde je tepní žíly puls,         
 přesto vzhledem připomínajíce skot.         
 
+Celý zašpinění od hlíny bahna,      
+mytí naposledy podzimním deštěm,        
+fousatí jak staří senilní dědci.            
+Zakryti prostým oděvem a pláštěm,           
+chudoba s úplavicí z obou táhla.        
 
+Museli odsud vypadnout co nejdřív,          
+jinak by jistě do roka zemřeli.             
+Týden před útěkem, za krabicemi,            
+dobré místo ke skrytí objevili,         
+budou neviditelní jako odliv.       
 
+Nervozitu mužů přerušil povoz.             
+Právě přijel vyskládat zeleninu,            
+a odvézt látku, jenž vězni tvořili.     
+Vetřít se trvalo míň než vteřinu,       
+čeká na ně sladký svobody odvoz.       
+
+<!--  -->
+
+Pan Ohmara skrytě předal znamení,           
+spíše otázku zda jsou připraveni.               
+Odpovědí bylo dvojí ťuknutí.            
+Už už se zdálo že jsou zachráněni,      
+nechtěli se vraceti do vězení.      
+
+U brány stála táborová hlídka,              
+jeden z mužů přistoupil k převozníku.           
+"Nazdar Gustave, někdy se u nás stav.           
+Musíš zastřihnout stromy zahradníku         
+a v podvečer se sejdeme u pivka.            
+
+<div style="page-break-after: always;"></div> 
+
+Co Saša, už jsi s ní konečně mluvil?        
+Pokukuje po tobě, víš to dobře.         
+Nemůžeš ji takle odbývat navěky."           
+"Rád bych se zachoval trošičku moudře.          
+Vím, nasadil jsem do břicha motýly.         
+
+Ale nechci aby pomřeli nářkem,          
+nebo mojim předčastným vyjádřením.          
+Vše musíme dohrát v harmonii hvězd,         
+ať pak skončí s největším potěšením,        
+můj důkaz lásky bude věčným dárkem."        
+
+"Dobře ty jeden mazaný pašáku,              
+tak už jeď, nechť nezdržuješ ostatní."          
+Vůz zeleniny rozjel se dopředu.         
+V malé kárce vezouc se lidé špatní,             
+špatní pro společnost, dobří pro spásu.     
+
+<!--  -->
+
+Spásu těžké lidské spravedlnosti,           
+kamarády jim nechali na pospas.         
+Sebe prchli jak krysy z podpalubí,          
+když Bismarku dochází života čas.           
+Jsou krysami bohatší společnosti.           
+
+Dvacet pět kilometrů od pevnosti,           
+se rozloučili s laskavým Gustavem           
+i spěchali ke vzdáleným hranicím,           
+kde chtějí nenápadně splynout s davem,          
+a dostat zpět do rukou moc svobody.         
+
+Další cesta k moři je namířená,             
+polský přístav Frombork pro uprchlíky           
+poslušně stojí a čeká na příchod.           
+Přijme je jako pocestné poutníky,           
+pro ně budou moře vždy otevřená.            
+
+Bohužel je vzdálen sto padesát šest              
+nekonečně vzdálených kilometrů.         
+Po tolika přírodou chodících dnech      
+budou potřebovati kadeřníků             
+dobře schopných práce adekvátně pět.         
+
+Pouť hrdinů zítra ráno započnou,                
+s ruksakem a čisťoučkým vzduchem v plicích,         
+dojdou přibližně do konce měsíce.           
+Jdou hezky lesem nikoliv ulicí,         
+pod širákem v podvečer si odpočnou.     
+
+<!--  -->
+
+"Hej Roberte, když jsme teď svobodní.       
+Opravdu nechceš se mnou jít do Německa?         
+Najdeme práci i koupíme kvartýr,            
+vleze se tam kdejaká věc přehezká.          
+Časem si navykneme jako místní."            
+
+"Ty se usaď a najdi si manželku,            
+která tě bude obhospodařovávat.             
+Já již takovou, jenž mě miluje vším,            
+nechce jen pro sebe brát, chce i dávat.         
+Milujeme se stále ač na dálku.          
+
+Věřím v lásku, kterou jsme si slíbili.          
+Myslel jsem na ní při choré nemoci,         
+či když jsem každou chladnou noc usínal.            
+Své myšlenky jsem přemýtal v posteli.           
+Ten park kde jsme se prvně políbili."           
+
+"Hlavně se mi tady prosím nerozbreč.            
+Co bylo bylo. Teď jdi konečně spát.         
+Potřebujeme načerpat spousty sil.           
+Zítra musíme hned brzo ráno vstát."         
+Jako kdyby je postihla břicha kreč,         
+
+schoulili se do teplého klubíčka.           
+Potulné lišky chrápou mimo noru,            
+chtějí si užít krásnou světa vůni.          
+Svit ohně zažene každou příšeru,            
+jenž zahřeje dřímavým liškám líčka.     
 
 
 <div style="page-break-after: always;"></div> 
 
 ### <a id="k6-4"></a> **Králové Evropy**
+<!-- 
+    popsat cestu do přístavu (12)
+    rozloučení ->  (6)
+    cesta na vodě do francie (2)
+-->
+Horký oheň ráno dávno dohořel,          
+rudé uhlíky vítr černě zchladil,            
+Roberta s Jeanem zpěv ptáků probudil.           
+Jean unaven se na pařez posadil,            
+dal věci do batohu a pak ho zavřel.         
+
+Směr Nový život je přímo za nosem,          
+oceánská voda je cítit ve vzduchu,          
+takových deset, dvacet kilometrů.           
+Přinejhorším nejsou aspoň na suchu,         
+jistě si poradí nějak i s hladem.           
+
+Po osmi kilometrech byla vidět          
+zarostná travinou neznámá louka.            
+Tráva plná hnusně barevných hmyzáků.        
+V houštině našli nejednoho brouka,          
+jenž se rozhodl někam pryč odletět.     
+
+V pozadí terénu zahlédli kostel,        
+bohužel nemohou se pomodliti,           
+či navštíviti jakoukoliv obec.          
+Mohli by se tak snadno prozraditi,          
+ač nebyla by špatná měkká postel.           
+
+Krátké dny se vlekly s dlouhými týdny,      
+až v polovině cesty objevili            
+malou polskou katolickou kapličku.          
+Oba se řádně k Bohu pomodlili,          
+dříve šlechtici, dnes nuzáci bídní.     
+
+<!--  -->
+
+
+
 
 <div style="page-break-after: always;"></div> 
 
@@ -3771,7 +3923,6 @@ přesto vzhledem připomínajíce skot.
 
 ### <a id="k8-5"></a> **Dopis zkázy**
 
-<!-- +2 -->
 V temné místnosti bez oken bez světla       
 trápí se muž hroznou válkou zničený     
 návrat zpět pouze umocnil nenávist.     
@@ -3784,7 +3935,6 @@ na dobu delší nežli bylo nutno
 Za ponižujicí zbytečný pochod       
 Pán Bůh ho cizím milencem odměnil.      
 
-<!-- +5 -->
 Neví co by měl nyní právě dělat,        
 staré emoce jej těžce zradili       
 a nové ještě nebyly stvořeny.       
@@ -3802,6 +3952,8 @@ přes ucho až do růžového mozku
 jenž nezná obranu proti hulákům     
 kteří drží řídící panel v stisku        
 na svém hostiteli se vyřádili.      
+
+<!--  -->
 
 Paraziti autorových myšlenek        
 řádí a on nemá žádné tušení     
@@ -3835,6 +3987,8 @@ Nikoliv, Barbe by mě mohla poznat,
 Musí to býti něco co mi souzní      
 s plánem, aby se později trápila.       
 
+<!--  -->
+
 Trápila za svoji zradu vůči mne,        
 aby pocítila jak se cítím já.       
 Poté možná konečně spozná jaké      
@@ -3847,7 +4001,6 @@ i řeknu oddanému Kryštofovi
 ať jej vhodí v jejich poštovní schránku,        
 či ho předá místní paní domovní."        
 
-<!-- psaní dopisu -->
 Vzal labutí brk, pustil se do práce,        
 musel totiž napsat spousty pozvání          
 pro neosobní až snobské přátele,        
@@ -3864,7 +4017,9 @@ Pečeť ve tvaru bílé konvalinky
 tvořena čistě litým voskem včelím       
 nyní měl v rukou důležitý dopis     
 převázán zdobným provázkem červeným     
-k podpisu přidal své dávné vzpomínky.       
+k podpisu přidal své dávné vzpomínky.    
+
+<!--  -->
 
 Robert zazvonil na zvonek osobní,       
 který zavolal přítele Kryštofa      
