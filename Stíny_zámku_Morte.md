@@ -3,7 +3,7 @@
 <h1><a href="#top" style="font-family: 'Georgia', serif; color: #1a1a1a; text-decoration: none; font-size: 1em; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">Stíny zámku de l'Espérance Morte</a></h1>
 
 <i><div style="text-align: center;">
-I kdyby píseň ptáků bouřkou utichla, nechť Meluzína zpívá o lásce navěky.
+I kdyby píseň ptáků bouří utichla, nechť Meluzína zpívá o lásce navěky.
 </div></i> 
 
 <i><div style="text-align: right;">**Jaroslav Šmudla**</div></i>
@@ -3905,8 +3905,101 @@ dříve šlechtici, dnes nuzáci bídní.
 
 <!--  -->
 
+Vypadají jako mniši církevní,       
+jeden Cyrilem, druhý Metodějem.         
+Tmavá oblaka se rozestoupila                    
+svítivá záře se střetla s pohledem          
+zapálila svíc zpovědi duševní.          
 
+Morálně posilněni odešli dál            
+kamenitou cestou rovně klikatou             
+Läuterungsweg se proměnil ve výlet.         
+Procházejí se přírodou bohatou,         
+v dáli běží mědvěd hnědý, lesa král.            
 
+<div style="page-break-after: always;"></div> 
+
+Hlavou poutníků přešel skvělý nápad.            
+Co si takle uloviti srnečka.            
+Prorostlé maso vydrží na měsíc,     
+tuk jako bělunká bílá perlička,         
+kůže orgán není nechtěný odpad.         
+
+Srnčí kůži zkusí v přístavu prodat,         
+peníze rozdělí se rovným dílem          
+budou dobré do nového začátku           
+motivace střetne se s jejich cílem          
+kolem dvou zlaťáků by mohli dostat.         
+
+Procházkou nachází sladké bobule,           
+jahůdečky a léčivé bylinky.             
+Žijí si jako postavy z románů,              
+nakonec to nejsou špatné vzpomínky,         
+ani kvílení nočních můr nezbude.            
+
+<!--  -->
+
+Doteď si s oběma hráli po nocích,           
+po výpravě budou opět zas šťastni.      
+Každý sice podle svého mínění,      
+ale nebudou více žíti v tísni.          
+Spásná naděje se objeví v očích.            
+
+Běžci bohatý les opouštěce          
+zlatavá pole rozprostírají se               
+přímo před zrakami chudobných mužů,         
+houštiny před nimi zavírají se          
+stimulují plačtivou radost srdce.           
+
+Ze všech stran je cítiti mořská voda,       
+klidnící šum přílivu a odlivu           
+v uších pohodu domu připomíná.          
+Cítí se býti naplno naživu,             
+přišla zpět přesladce sladká svoboda.       
+
+Patnáctého srpna v jedenáct hodin,      
+dorazili do chtěného přístavu,          
+kde se oba přátelsky rozloučili.            
+Robert schánějíce svoji přepravu,           
+i přestože přichází chladný podzim.     
+
+S kapitánem domluvil nalodění       
+svojí maličkosti, nové práce         
+na palubě lodi Alexandrie.          
+Státi se plavčíkem je situace           
+hodna pro lepší život proměnění.        
+
+<!--  -->
+
+Loď vyplula, vítr zadal směr,       
+vodní hladina od slunce blýská se           
+pocity Titanicu navozuje.               
+Po svojí ženě Robertu stýská se         
+znova ji viděti je jeho záměr.          
+
+Vlny klidu narážení do trupu,           
+tvoří melodii tichého moře,             
+melancholická krása not piana,          
+přesně jako ji cítí mysl moje,              
+přenáší věčně silné lásky zvuků.            
+
+Když se rozprší a kapky padají          
+omamnou vůni vlhka sebou nesou              
+i dušička pocítí vyrovnanost.               
+Lodě snů po hedvábných mracích plujou           
+říši zaslíbenou snažně hledají.         
+
+Řídíš a rozhlížíš se kolem sebe,            
+pocit pláče s nekonečnou radostí            
+Tě naplnuje při této myšlence.              
+Jsi oproštěna od všech svých starostí       
+jediné co vidíš je čisté nebe.          
+
+Jen pluj, ono totiž nikdy neskončí,         
+bude navždy uvnitř ve Tvém srdci.           
+Až se budeš jednou cítít nejhůře,           
+můžeš se začíst do těchto slov přeci        
+a chuť vzpomínky deště Ti zavoní.       
 
 <div style="page-break-after: always;"></div> 
 
@@ -3915,6 +4008,9 @@ dříve šlechtici, dnes nuzáci bídní.
 <div style="page-break-after: always;"></div> 
 
 ## <a id="sekce7"></a> Kapitola 7: Sladký domove
+<!-- 
+    vznik přátelsví za zachránění života
+-->
 
 <div style="page-break-after: always;"></div> 
 
