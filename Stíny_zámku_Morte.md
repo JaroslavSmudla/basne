@@ -4004,12 +4004,147 @@ a chuť vzpomínky deště Ti zavoní.
 <div style="page-break-after: always;"></div> 
 
 ### <a id="k6-5"></a> **Před domovem**
+<!--
+    vznik přátelství sluhy #
+    doplutí na sever francie #
+    cesta na svůj zámek @
+    objevení ruiny
+-->
+
+Takto pluli na moři asi týden,          
+než v Severním moři se to událo.            
+Bouře rozhořčila podkliné vlny,         
+což jisté nebezpečí znamenalo,              
+hrozilo strašné střetnutí s přívalem.           
+
+Loď se houpala ze strany na stranu      
+jenomu muži spadlý kovový sud           
+poranil levou nohu s levou rukou.           
+Robert přispěchal i hledal pro něj kout,            
+kde by dokonal mužovu záchranu.         
+
+Po skončení bouře šel se podívat        
+na stav poraněného námořníka.               
+Jen co přišel hned se na něho svalil            
+jak na dlouhodobého společníka,         
+i chtěl by Robertovi tváře líbat.           
+
+"Děkuji Ti převelice příteli,           
+tak jako jsi ty zachránil dneska mne,       
+já Tobě chci krýti polušně záda."       
+I k jeho hrudi se přitiskl pevně,       
+ač se vlastně oba prvně viděli.         
+
+Robert zaskočen a dojat zároveň,        
+opětoval objímající náruč,          
+která se mu překvapivě dostala.         
+"Můj pane potřebuješ něco? Poruč!           
+Máš mou plnohodnotnou věrnou přízeň."      
+
+<!--  -->
+
+Jak dopluli na severní pobřeží      
+slavného státu galtského kohouta,           
+jenž se stal hrdým národním symbolem.           
+Robert zacítil tu vůni domova               
+v myšlenkách za Barbe natěšen běží.         
+
+Aby myšenky co nejdřív urychlil             
+a proměnil v toužebnou sladkou pravdu,              
+s novým sluhou Kryštofem Kamalnikem         
+koupí koní zahnali katastrofu,              
+kterou ve své mysli Robert objevil.         
+
+<div style="page-break-after: always;"></div> 
+
+Zdálo se mu o plačtivé manželce,            
+jenž se sama trápí s malým chlapečkem           
+i smrt by se stala vysvobozením.            
+Nežijí v zámku, stojí před domečkem.                
+V náručí objímá svého milence.          
+
+Dost bylo o manželce přemýšlení         
+teď se musí vrátiti na svůj zámek           
+jen tam se dozví aktuální pravdu.           
+Putováním připravený o spánek,          
+lidé, domy jsou pro něj k nepoznání.            
+
+Unavení příjíždí k destinaci            
+šlechetný pán a jeho sluha věrný,           
+snaže se rozpoznat tu barabiznu.            
+Panství neúprosným časem zestárlý       
+jako by přežil osm generací.            
+
+<!--  -->
+
+Vrchní vrstva sgrafity již opadla,          
+nádherné vzory proměnily se v prach,        
+který dnes leží na narostlé zemi.           
+Zbloudilý vítr zahrál poslední šach         
+matem a prohrou omítka opadla.      
+
+Zbytek zdiva nevolností vybledl         
+ukončil tehdejší krásu iluzí.           
+Na vrcholu u zábradlí balkónu           
+leží spousta větviček a haluzí      
+nejspíše čáp si tady vejce snesl.       
+
+Malá černobílá rodinka ptáků,           
+ochraňovali sídlo před vojáky,              
+kteří by jej chtěli s chutí drancovat.          
+Dnes by mohl lákat pouze tuláky.            
+Žil by zde nejmocnější král žebráků.        
+
+Potažené křeslo královo trůnem      
+působíce na chásku nemajetnou.          
+Nebojácný šedý vlk alfa samec,          
+svojí povahu má značně vznětlivou.          
+Je právem stotožněn s bohem Neptunem.       
+
+Než vstoupí hrdinové do paláce,             
+zkontrolují nejprv zadní pozemky,           
+zda tedy mají pravdu s bezdomovci.          
+Bránu hrubou silou snadno odemkli           
+i díky jejímu stáří bez práce.      
+
+<!--  -->
+
+Zahrada zůstala velmi podobná,          
+jako tehdy když ji spěchem opouštěl.            
+Krásné vrby, tůje, porosty keře.            
+Agresivní anarchii odpouštěl            
+pouze rostlinám, jenž byla neplodná.            
+
+Ty se nerozmnožili přes zahradu,                
+jejich prosba byla dožít se květu,          
+který příjde letos nejspíš naposled.            
+Vstřetnou se s rodinou na oném světu,       
+tam budou stavět přírodní blokádu.      
+
+Společnou blokádu jako za mlada,            
+kdy byly čerstvým sluníčkem plní sil.           
+V nekonečném prostoru a pohodlí         
+mohli by rozmetat do okolí pyl,         
+ten den nastane nová květin vláda.          
+
+Planeta opic je skvělým příkladem,          
+slabší druh vymizel pro blaho druhých.      
+Člověk nevymřel, tradice zůstali.           
+Ač existuje mnoho končin suchých,           
+pod povrchem jsou dlážděny pokladem.        
+
+Ten vznikl, když hvězdy hráli svoje hry         
+na stvoření nových neznámých látek,         
+pro nás známých jako zlato a stříbro.       
+Prvek s horninou proměnil se v kámen,       
+nám lidem navozujíc na jazkyk lži.          
 
 <div style="page-break-after: always;"></div> 
 
 ## <a id="sekce7"></a> Kapitola 7: Sladký domove
 <!-- 
-    vznik přátelsví za zachránění života
+    objevení bohatství po rodičích ve skrýši
+    koupě nového zámku, změna image
 -->
 
 <div style="page-break-after: always;"></div> 
@@ -4791,7 +4926,7 @@ během chvíle navždy život ukončil.
     Děti prozkoumávájí zámek po 1ww, najdou Roberta a zkrášlují si zámek
     dítě Ermond zkrášluje místnost pro milovan
 
-
+    +100
 
 
 
