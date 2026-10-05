@@ -50,16 +50,16 @@ I kdyby píseň ptáků bouří utichla, nechť Meluzína zpívá o lásce navě
 > [Králové Evropy](#k6-4)      
 > [Před domovem](#k6-5)  
 ### [Kapitola 7: Sladký domove](#sekce7)
-> [Ach, sladký domove](#k7-1)    
-> [Château de l'Espérance Morte](#k7-2)    
-> [Robertův plán](#k7-3)  
-> [Pozvánka na bál](#k7-4)    
-> [Plán mého pána](#k7-5)    
+> [Pátrání](#k7-1)    
+> [Objev hořkosladké reality](#k7-2)    
+> [Hrabě Monte Christo](#k7-3)  
+> [Hlídat a sledovat](#k7-4)    
+> [Srdce vzplaň](#k7-5)    
 ### [Kapitola 8: 12. hodina odbila](#sekce8)
-> [Cesta](#k8-1)     
-> [Myš chycena](#k8-2)  
-> [Dopis, jenž jsem našla](#k8-3)
-> [Pouze hodinu, ani více ani méně](#k8-4)   
+> [Gringottova banka](#k8-1)     
+> [Velký Gasby](#k8-2)  
+> [Šantán slečny Rose](#k8-3)
+> [Láskyplná nenávist](#k8-4)   
 > [Dopis zkázy](#k8-5)         
 ### [Kapitola 9: Zpěv a žal](#sekce9)
 > [Pozvánka](#k9-1)      
@@ -4142,15 +4142,222 @@ nám lidem navozujíc na jazkyk lži.
 <div style="page-break-after: always;"></div> 
 
 ## <a id="sekce7"></a> Kapitola 7: Sladký domove
+### <a id="k7-1"></a> **Pátrání**
 <!-- 
+    jede najít barbe
     objevení bohatství po rodičích ve skrýši
     koupě nového zámku, změna image
+
+    1. vyrazí na cestu
+    2. objeví barbe, zahořknutí
+    3. koupě nového zámku, titulu, jména
+    4. sledování života Barbe potají
+    5. ? (změna vnitřku Roberta - Mein Herz Brent)
 -->
+
+"Pane tady nikdo živý nebude.       
+Minimálně ne vaše drahá paní.           
+Už se stmívá a za chvíli bude noc.          
+Navíc na mě jde neskutečné spaní.       
+Přeci nás hned kvůli ní neubyde.        
+
+Vyspíme se a zítra budem hledat,            
+kde by se tak mohla asi nacházet.               
+I přesto že jste velevážený pán,            
+nemůžete takle se sluhou zacházet           
+a nebudem se přeci hloupě hádat."           
+
+"Tak dobrá, ale ráno za svítání         
+vyrazíme do vedlejších obydlí               
+se poptat, co se stalo s tímto zámkem.          
+Kam se ztratilo příjemné pohodlí,           
+kde došlo k mému prvnímu vyznání?           
+
+Včera jsem se s ní loučebně políbil,            
+dneska tady stojím z práce únavné           
+hladem zesláblý skoro na holou kost.            
+Ač na druhou stranu je to zábavné,              
+že jako pirát jsem svůj poklad ztratil.     
+
+Proto ho Kryštofe musíme najít,     
+poté zlatou lopatou vykopati,           
+trochu je to Sisyfův trest přiznávám.       
+Všechny klenoty musím očistiti,         
+až tehdy se z nich mohu zase těit."           
+
+<!--  -->
+
+Noc příjemně teplá proměnila se     
+ve studenou mlhovinu raníčka.           
+Krásný dlouhotrvající ranní sen         
+pevně zalepil ospalky očíčka.           
+Po rozevření zem rozzářila se.          
+
+Červená krajina jako při západu,            
+avšak je teprv rozbřesk dne nového.         
+Robert ladně prokroužil krční páteř,            
+protáhl si záda a svoje tělo        
+oblék se urychleně kvůli chladu.            
+
+<div style="page-break-after: always;"></div> 
+
+Na koni objeli čtvery vesnice,              
+které byly k zámku ze všech nejblíže.           
+Nic, lidé věděli pouze o svatbě,            
+cosi že dnes žije kolem Paříže.         
+Ta mladá dívka byla krasavice.          
+
+Po dalších doplňujících otázkách,           
+zjistil že se nejedná o manželku            
+se kterou se z věčné lásky oženil.          
+Kde však ale najíti spasitelku,         
+jenž žije a bude žíti ve hvězdách.          
+
+Konečně první stopa na obzoru,          
+odstěhovala se do města Massy,          
+asi nezvládla to dlouhé čekání          
+či byla zlostně vyhnána úřady.          
+Možná plakala pod rukou dozoru.         
+
+<!--  -->
+
+<i>'Věřím v její čistost a spravedlnost         
+jistě trpělivě čeká na návrat           
+jejího milovaného manžela.          
+Doufám že nemusela hodně plakat,            
+když po konfliku vládla Ruska krutost.      
+
+Všechny získané údaje přeci sedí,           
+ta žena z obrázku nakresleného          
+žebrákem za pět pencí je ona.'</i>                  
+Našel smysl života ztraceného           
+v gulagu protkaný boží zpovědí.     
+
+Sluného desátého listopadu,     
+dorazil se služebníkem do cíle.             
+Stačí najít, kde dnes žije s dítětem.           
+S častým ale užitečným omylem,          
+hledal zlatou husu ve velkém stádu.         
+
+Městská radnice prvně poradila      
+tak úspěšně že znal i číslo domu.       
+Pravda za pomoc si musel zaplatit.              
+Po letech obejme žádanou ženu       
+netušil zda se nějak proměnila.         
+
+To nejdůležitější co děťátko?           
+Jak na něj mohl takto zapomenout?       
+Byl celý zarostlý jak děda Mráz,        
+kvůli cestě, kterou musel překlenout.       
+I nezaleklo by se ho ptáčátko?      
+
+<!--  -->
+
+Raději prvně ohlídne zázení,            
+jenom půjde za Barbe se ukázat.         
+Připomenout že jako člověk žije.            
+Kde skončili chtěl by opět navázat.         
+I přesto že zažíval dny blouznění,      
+
+těšil se na hřejivé obejmutí            
+krásných ruček sametově heboučkých.         
+Na chladném zarostlém srdci pocítí          
+silný tlak hynoucích prsou drobňoučkých.        
+Prvně uspořádá své oholení.         
+
+Zarostlého chlapa by nepoznala          
+i přesto že s ním spousty roků.         
+Když si představí že byl donedávna      
+jeden z ruských uvězněných otroků               
+a ona i tak na něho čekala.         
+
+Cítí dřívější palčivý boží soud,        
+i zároveň nadšení ze svobody.       
+Pro své vlastní zkulturnění osoby       
+zašel do holičství vedle hospody,       
+a nechal si zastřihouti plnovous.       
+
+Stařec promění se rázem v mladíka,      
+který o vlastní mládí dávno přišel.     
+S poraněnými spolubojovníky             
+velkou ránu od spojenců utrpěl,         
+Bonaparta brali jako viníka.        
+
+
+<div style="page-break-after: always;"></div> 
+
+### <a id="k7-2"></a> **Objev hořkosladké reality**
+Svěží nový člověk opouští salón         
+zkrášlovacího omlazení sebe.            
+Bezmyšlenkovitě se velmi těší           
+jak milovanou Barbe opět střetne            
+i nadále bude její monopol.     
+
+Snění přerušila osoba cizí,     
+která se blížila neostýchavě            
+podedřívě rychle k jeho manželce.           
+Robert zpomalil vážný krok váhavě,          
+taktéž Kryštof vycítil nebezpečí.           
+
+"Pane znáte toho cizího muže?                   
+A pročpak je s ní v přílišné blízkosti?"            
+"Neznám ho Kryštofe, nebyl součástí     
+mé rodiny ani nežil v blízkosti         
+rodiny manželky ke mně přivdané."
+
+Z hlasu působil realitivně klidný,      
+avšak uvnitř se překrásný svět bortil.      
+Zklamán svojí důvěřící hloupostí            
+bohužel kamarádovi nevěřil          
+dostihl jej smutný paradox zrádný.      
+
+Kámoš si žije podklidné stárnutí,           
+možná s novou krásnější vnadnou ženou.      
+Vsadil na špatné karty jak při pokru,           
+hrál těžkou hru přílišně nebezpečnou.           
+Výsledek? Dostal nejvyšší zklamání.     
+
+
+
+
+
+<div style="page-break-after: always;"></div> 
+
+### <a id="k7-3"></a> **Hrabě Monte Christo**
+
+<div style="page-break-after: always;"></div> 
+
+### <a id="k7-4"></a> **Hlídat a sledovat**
+
+<div style="page-break-after: always;"></div> 
+
+### <a id="k7-5"></a> **Srdce vzplaň**
 
 <div style="page-break-after: always;"></div> 
 
 ## <a id="sekce8"></a> Kapitola 8: 12. hodina odbila
+### <a id="k8-1"></a> **Gringottova banka**
+<!-- 
+    1. zajištění svého majetku u guvernéra banky
+    2. posílení moci u Velkého Gasby
+    3. navštívení šantánu
+    4. pocit pomsty a zároveň lásky - obecně
+    5. zjištění jak se pomstít
+-->
 
+<div style="page-break-after: always;"></div> 
+
+### <a id="k8-2"></a> **Velký Gasby**
+
+<div style="page-break-after: always;"></div> 
+
+### <a id="k8-3"></a> **Šantán slečny Rose**
+
+<div style="page-break-after: always;"></div> 
+
+### <a id="k8-4"></a> **Láskyplná nenávist**
+
+<div style="page-break-after: always;"></div> 
 
 ### <a id="k8-5"></a> **Dopis zkázy**
 
@@ -4924,7 +5131,7 @@ během chvíle navždy život ukončil.
 
 <!-- 
     Děti prozkoumávájí zámek po 1ww, najdou Roberta a zkrášlují si zámek
-    dítě Ermond zkrášluje místnost pro milovan
+    dítě Ermond zkrášluje místnost pro milovanou Mercedes
 
     +100
 
