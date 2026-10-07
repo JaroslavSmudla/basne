@@ -4317,9 +4317,103 @@ Vsadil na špatné karty jak při pokru,
 hrál těžkou hru přílišně nebezpečnou.           
 Výsledek? Dostal nejvyšší zklamání.     
 
+<!--  -->
 
+Naděj se bortí jak domeček z karet,     
+smutek se ujímá řízení moci,            
+v jeho hlavě probíhá revoluce.          
+Budoucnost upadá do chladné noci,           
+kde v dáli vidím žhavý kouř cigaret.        
 
+On plápolá a ozařuje srdce,             
+jenž v černě chladný čedič zkamenělo.           
+Bytelně mladé jako pruské Alpy          
+avšak pod kameným povrchem zkřehlo          
+pod vlivem žensky bezcitného zrádce.            
 
+<div style="page-break-after: always;"></div> 
+
+Teď při každém bolestivém nárazu        
+tříští se na malinkaté kousíčky,            
+které neslepí zpátky ani Pán Bůh.           
+Z oblohy tíhou opadly hvězdičky,            
+jsou předzvěstí citového úpadu.     
+
+Plačtivou agresi sám pociťuje       
+i přemýšli co bude díti dál.            
+Snažíc se vymyslet správné řešení,      
+leč na mysl útočí obrovský žal,         
+do háje bystrá pozornost směřuje.       
+
+Přepíná na druhý mód extrémisty.        
+Skončilo bezmezné lásky finále          
+Robert poražen skórem osm: nula,         
+již nikdy více spokojen nadále,     
+do snění pustil kruté teroristy.        
+
+<!--  -->
+
+<i>'Jen pojďte nebojím se vás chcípáci,         
+otevírám moje dveře dokořán,            
+nebudu odporovat ani brečet.            
+Ani s abmicemi být váš kapitán,         
+jenom vstupte i buďte mými vůdci.       
+
+Společně porazíme každou křivdu,            
+jenž se dopouští slabě chabí lidé.      
+Budou prosit o naše odpuštění!              
+Kouska slitování nikdáč nezbude.            
+První se podíváme na tu dívku.          
+
+Pěla láskou i tulila se ke mne,             
+avšak chladně bezcitná je to mrcha.     
+Zaprodala mě, slyšte zaprodala!         
+Na nosáčku visí ji paví pýcha,          
+zajímá mě copak ji v srdci plane?           
+
+Že by láska? Cha jak by jenom mohla!            
+Cizák bude jistě hodně bohatý       
+nebo bude mít lepší postavení.              
+Ať shoří se mnou v pekle muž proklatý.          
+Jen sama sobě si takto pomohla.         
+
+Jak mě mohla napálil zlatokopka,            
+já takový chytrý profík úsudku.         
+Neboj se Roberte ty ji to vrátíš.           
+Ne nebudeš nikdy víc žít v úpadku,          
+Dnes je den co zesílí má obrana.'</i>   
+
+<!--  -->
+
+"Pojďme pane doma to probereme.         
+Já se Vám na paničku rád podívám,           
+uvidíte že to bude kamarád.                 
+Něco dobrého k snědku nám nachystám                 
+i společně něco již vymyslíme.          
+
+Robert celou cestu zpět byl potichu         
+pouze pro sám sebe si mumlal slabě.         
+Služebník snažil se jej rozveselit      
+leč srdcovitě zhroucený pan hrabě            
+ani zdaleka se neměl ke smíchu.         
+
+Skoro jako na Západní frontě klid           
+vypadala dlouho trvající pouť           
+na polorozpadlý zatuchlý zámek.             
+Po zámeckých stěnách stéká deště proud          
+v zimě nastane uvnitř obrovský chlad.       
+
+Přestavba by stála mnohonásobně     
+více peněz než-li koupě nového      
+luxusního podle novější módy,           
+možná dokonce i prostornějšího          
+panství jenž by zářilo působivě.        
+
+Jak sežene Robert velké peníze      
+se dozvíte v další podkapitole.         
+Čeká nás ještě dlouhá zajímavá          
+jízda o lásce a lidské svobodě.         
+To všechno je napsáno v této knize.     
 
 <div style="page-break-after: always;"></div> 
 
