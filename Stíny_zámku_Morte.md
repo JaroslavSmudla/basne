@@ -4418,6 +4418,111 @@ To všechno je napsáno v této knize.
 <div style="page-break-after: always;"></div> 
 
 ### <a id="k7-3"></a> **Hrabě Monte Christo**
+<!-- 
+    čapnutí pokladu
+    koupě nového zámku
+    usazení -> nasazení hlídky
+-->
+Ještě ten večer přijeli ke dvoru        
+barabizny celé časem ohnilé.            
+Tiše plačtiv vystupuje z kočáru         
+přemýtavě prosí o nové chvíle           
+hledaje trať životního obzoru.          
+
+Sluha slušně čekaje přede dveřmi            
+Robert vchází a hledá jeho poklad.          
+Otčím mu v mladickém věku prozradil,            
+kde se nachází majestátní poklad.           
+V sále visí obraz temný až černý.           
+
+Za ním se ukrývá menší tajná skrýš.         
+A tam schovali všechno svoje zlato.             
+Padesát tisíc pravě čistých uncí.           
+Náhle zděšen, obrazem bylo hnuto,           
+Že by to vyvrakovali nejbližší?         
+
+Sundal jej a odhodil na podlahu,            
+vsunul šperhák dovnitř klíčové díry.            
+Šmrlichal s ním furt ze strany na stranu            
+plný pochybné naděje a víry,            
+otevřel krabici díky šperháku.      
+
+Žlutavě zářivé světlo oslňuje       
+nejenom jeho bělavě lidskou tvář        
+taktéž celý zmíněný taneční sál.            
+Bohat pomalu jako bývalý král,          
+svému životu dnes zcela panuje.     
+
+<!--  -->
+
+Zavřel trezor a šel zpět pro Kryštofa.      
+"Nějakou chvíli tady pobudeme,      
+přece stejně nemáme kde bydleti.            
+A než nové obydlí si najdeme        
+tento zámek je největší jistota.            
+
+Rád bych tě pověřil prvním úkolem.          
+Najdi nejbližší panství jenž bych koupit            
+mohl koupit za dva tísíce zlatých."         
+Kryšof nevěře bojí se přistoupit.       
+Stojí před ním smyslu zbavený blázen?    
+
+<div style="page-break-after: always;"></div> 
+
+Kde by vzal tolik peněz pohromadě.          
+Krade či chce dokonce šlechtu vraždit?          
+Byl zklamaný ač nechtěl se rohádat.         
+Sám by nezvlád dýku do těla vrazit      
+hold nebyl ve válce ani v armádě.       
+
+"A smím se ptát kde na to sakra vezmem?         
+Já chudobou smrdím metry daleko         
+a vy budete na tom dost podobně."           
+"Na zahradě jsem viděl zrát jablko,         
+zlaté uvnitř z vnějšku zdobené šperkem.             
+
+Až dozraje tak jej draze prodáme.       
+Neboj se, já nehodlám teď zemříti           
+či platiti rodinné reparace.            
+To oni, oni musejí zemřetíti!           
+Chci je zničit fyzicky též morálně."            
+
+<!--  -->
+
+Kryštof vnitřně zakočeně zhnusený,      
+ale slíbil pánu největší věrnost.       
+Bude skákati jak si Robert přeje.       
+Mrzí ho že musí skrývat upřímost            
+cítí se povinností ponížený.        
+
+<i>'Přál bych si aby to nebyla pravda.      
+Paní Barbe byla pouze na schůzce            
+s jedním z jejich klučičích kamarádů.           
+Byly na odpočinkové procházce               
+i k žalu nastala nepravá křivda.'</i>           
+
+Celé dva týdny Kryštof procestoval,             
+než našel co po něm žádal jeho pán.         
+Zámek to byl luxusně přepychový,            
+ze vnitř působil jako gotický chrám.            
+Timto skvostem skutečně zabodoval.          
+
+Nejlepší překvapení teprv přišlo,           
+byl vzdálený pouze pár kilometrů.       
+Částka byla nakonec až-li k smíchu,         
+hodnotu vnímal v hodnotě pár centů.         
+Robert byl rád že všechno hladce vyšlo.     
+
+V zápětí se rychle přestěhovali,        
+ještě je čekal úkol sledování           
+křehce nebezpečné ženské kořisti.           
+Nekonečně chladný pocit poznání         
+znát pravdu proč si spolu povídali.     
+
+<!--  -->
+
+
+
 
 <div style="page-break-after: always;"></div> 
 

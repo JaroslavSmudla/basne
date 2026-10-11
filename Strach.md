@@ -218,8 +218,8 @@ která se ji zdála býti líbivá.
 
 V porcování ji bohužel překáží      
 a objektiv by od krve mohl být      
-nikdo jiný ji nikdy nesmí nalézt        
-už asi ví kampak kameru ukrýt       
+nikdo jiný ji nikdy nesmí nalézt.               
+Už asi ví kampak kameru ukrýt       
 na vysokou poličku ji položí.       
 
 
