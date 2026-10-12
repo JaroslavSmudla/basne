@@ -43,11 +43,13 @@ Občas s Afroditou si Tebe pletu,
 omyl dává mi sílu být básníkem          
 a jsem nezlomný jako svazek prutů.      
 
+
 Někdy poutníkovi kolísá víra            
 od Jeruzaléma do Compostela.            
 Obří kus Země kvůli Tobě prošel.            
 Procestoval za poznáním kus světa,      
 přesto všechny cesty vedou do Říma.         
+
 
 Pohled na Tebe mé srdce rozbuší         
 bije v intervalech po Tvé blízkosti.            
@@ -69,14 +71,17 @@ Procestoval za poznáním kus světa,
 přesto všechny cesty vedou do Říma.      
 
 
-SLOKA 5 & 6         
 Za Tebe stálo a stojí bojovat,          
 žádný z hloupých Keltů mi Tě nevezme.       
+I přes to ve mně dříme ukrutný strach       
+jestli sok Tvou krisu téže nalezne,             
+nestojí mi za to Tebou riskovat             
 
-nalezne         
-nestojí mi za to Tebou riskovat    
-
-....        
+Zraješ jako tekutá vinná réva,          
+chci Ti pomoci sebe budovati        
+podle Tvého architektského stylu.           
+Všichni Tobě by měli děkovati       
+za to že jsi je krásou oslnila.         
 
 
 Někdy poutníkovi kolísá víra        
