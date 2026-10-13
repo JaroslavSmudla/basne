@@ -4516,12 +4516,40 @@ Robert byl rád že všechno hladce vyšlo.
 V zápětí se rychle přestěhovali,        
 ještě je čekal úkol sledování           
 křehce nebezpečné ženské kořisti.           
-Nekonečně chladný pocit poznání         
+Nekonečně chladný pocit poznání,        
 znát pravdu proč si spolu povídali.     
 
 <!--  -->
 
+Kočka sice může sledovat myšku,         
+nýbrž malý hlodavec má oči též.         
+Nejdříve strachem poté ofenzívou            
+uteče tam kde je nejvyšší ta věž            
+i snaží se nalézt bezpečnou skrýšku.            
 
+Skrýšku pro ní dostatečně malinkou,         
+zaleze do hřejivého teplíčka.           
+Slabá myš našla si samce myšáka,            
+společně schoulili se do klubíčka,          
+rozhodli se se státi velkou rodinkou.           
+
+Léta poklidného myšího žití,            
+narušila zapomenutá kočka.              
+Ta vnikla do vysoké chladné věže,           
+čekajíc na chvíli kdy se jich dočká.            
+Hladové bříško do plna si sytí.         
+
+Mohli jsme myší rodinu zachránit?       
+Bylo by boží narušení správné?          
+Ač neznám odpověď smím konstatovat,     
+co je správné nebývá nikdy lehké.       
+Je morální se rozhodnutí stranit?       
+
+Ach kéž by existovala odpověď,          
+která by obsáhla všechny nápady.            
+Takto nás téžká témata obíraj       
+o nerozhodné kusy naší nálady.          
+Rozjímej v klidu i do výšin pohleď.     
 
 
 <div style="page-break-after: always;"></div> 
