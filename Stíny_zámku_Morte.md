@@ -4556,6 +4556,107 @@ Rozjímej v klidu i do výšin pohleď.
 
 ### <a id="k7-4"></a> **Hlídat a sledovat**
 
+Druhý těžký pkol Kryštofu přibyl.       
+Sledovati opěvovanou dámu.              
+Vnitřně dopouští se hrozného hříchu,        
+jehož podstata tví v šíleném klamu.         
+<i>'I přesto že jsem v minulosti chybil,            
+
+tato jistě bude největší ze všech.      
+To není správné ani gentlemanské            
+rozumné chování jenž já mám činit.      
+Toto hrůzné zhřešení nekřesťanské               
+ještě zatají mi v pekle čistý dech.'</i>        
+
+Cestou necestou za cizí princeznou      
+pospíchal zachytiti okamžiky,           
+jenž by mohli příběhy vypovídat.            
+Vylekán zaslechl ženské výkřiky.            
+Toť naštvaná žena s pánví železnou.     
+
+Když kolem ní hbytě procházel dále,        
+rozeznal jak utrousila poznámku         
+týkající se manžela a nějaké            
+coury které vyznával svojí lásku.           
+<i>'Těm nepomůže aň pomoc faráře.'</i>      
+
+V dálce zahlédl hraběnky obrysy.        
+Ano je to ona, dnes celá v bílém.       
+Tu se ve spoustě myšlenek zadrhl.           
+Má čekat než bude v náručí milém            
+s mužem k němuž cítí jisté pocity?      
+
+<!--  -->
+
+Nebo by měl zbystřiti okamžitě?     
+Pokusí se o hybridní hlídání.           
+Červíček nic nevidí je osleplý.         
+Do očí bije zářivé blýskání,            
+leskle matným kovem je oslnivé.     
+
+<i>'Sakra kam se ta ženská mohla podít?         
+Bože doufám že jen kráčí za rohem.          
+Vždyť najít ji nám dalo tolik práce         
+a teď bych měl dát jednoduše sbohem.            
+Proklatě silně pálivý slunce svit.'</i>         
+
+<div style="page-break-after: always;"></div> 
+
+Zavětřil jako lovecký pes stopu.        
+Hle právě vchází do Grand kavárny.          
+Kryštof pospíchaje a sledujíce,         
+jak těžký svršek ukládá do šatny                
+i svádivě jdouc si sednout ke stolu.            
+
+Tentýž muž kterého již tehdá viděl          
+nyní políbil krasotince ruku.           
+Zde již asi nebude žádný prostor            
+na falešnou vrtkavou obhajobu,              
+"Ach kdyby to můj zničený pán viděl."           
+
+Ladně svižným krokem šel si přisednout      
+ke stolu jenž byl za dřevěnou deskou.       
+Po usednutí se začli dít věci.          
+Lucas započal konverzaci větou          
+kterou mohl Kryštof čistě zaslechnout.          
+
+<!--  -->
+
+"Miláčku jak jsi se dnes vlastně měla?      
+Vypadáš že jsi plná energie."           
+Když jsem šla po ulici Canebiére        
+zaujala mě krásná melodie               
+jenž při mé dřívější svatbě zazněla.            
+
+Ty prožitky opět se navrátili,          
+hrály v hlavě a já si je užila.     
+Ospalá vzpomínkami na koráb snů         
+jsem bezváhání ráda nastoupila.         
+Předměty mě úplně pohltili."        
+
+"Rozumím té kráse, kterou jsi prožila."         
+Rozhovor proměl se v tlachání šum,          
+jenž Kryštof přestal myšlenkami vnímat.                     
+Jako kdyby schválně vytvořil útlum          
+aby jeho hlava na něco přišla.          
+
+Musí to sdělit, ano musí říci       
+pánovi co viděl a co zaslechl.          
+Ta milostná barva ženského hlasu.           
+I když možná se jen hloupě přeslechl        
+a jeho hluchota lásky vztah ničí.       
+
+<i>'Přeci může býti dívčí společnicí        
+popřípadně se stala prostitutkou.       
+Nikdo neví co se při válce stalo        
+mohla onemocnět chorobou krutou         
+či chtěla zahnat chmurné dny plačící.'</i>          
+
+<!--  -->
+
+
+
+
 <div style="page-break-after: always;"></div> 
 
 ### <a id="k7-5"></a> **Srdce vzplaň**
